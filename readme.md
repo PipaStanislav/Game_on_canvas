@@ -1,0 +1,1 @@
+open in browser index.html and enjoy game.
